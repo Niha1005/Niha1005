@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niharika
 - 👀 I’m interested in Computer networks, Java and python
-- 🌱 I’m currently learning Java, Data structures, SQL MongoDB
+- 🌱 I’m currently learning Java, Data Science(Machine Learning)
 - 💞️ I’m looking to collaborate on Networks, Cyber security, and more....
 - 📫 My LinkedIN connection www.linkedin.com/in/niham5601
 
